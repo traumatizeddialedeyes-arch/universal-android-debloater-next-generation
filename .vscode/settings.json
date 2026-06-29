@@ -1,0 +1,7 @@
+{
+    "editor.gotoLocation.alternativeImplementationCommand": "editor.action.peekTypeDefinition",
+    "editor.gotoLocation.alternativeReferenceCommand": "editor.action.peekDeclaration",
+    "editor.gotoLocation.alternativeTypeDefinitionCommand": "editor.action.peekTypeDefinition",
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.scrollbar.ignoreHorizontalScrollbarInContentHeight": true
+}
